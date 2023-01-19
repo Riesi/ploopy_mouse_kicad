@@ -17,7 +17,7 @@ If you want to help verifying the design please do so!
 ### Current Validation
 
 Validation has been done with the `Gerbv` tool, which allows to compare two Gerber files and show their difference/overlap.
-The files used for the validation are located in ./gerber_diff_view`. There are also comparison shots of some layers in which the green corresponds to KiCAD and purple to Altium.
+The files used for the validation are located in ./gerber_diff_view`. There are also comparison shots of some layers in which the purple corresponds to KiCAD and green to Altium.
 
 ![Diff of top layers](gerber_diff_validation/layer_top_diff.png)
 
