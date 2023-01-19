@@ -33,9 +33,7 @@ KiCAD version has a bit more portions filled. This should not be an issue.
 
 #### Edge Cuts:
 
-Shape looks identical.
-Only line width is different, but this doesn't change anything for the cut out PCB.
-Probably due to KiCAD "Edge Cut" layer instead of "Board Outline".
+Match.
 
 #### Drill:
 Drill holes look correct.
@@ -46,9 +44,11 @@ Should be no problem.
 No drill mapped to optical sensor in KiCAD, but this should not be an issue.
 
 #### Masks:
+
 Match.
 
 #### Pastes:
+
 Match.
 
 # The Ploopy Mouse
