@@ -872,6 +872,11 @@
     (uuid fc415120-0836-459c-b20d-53edbff3fba0)
   )
 
+  (text "The RC variant only means that the internal 8MHz oscillator is enabled by default and \nthat the divider is set so that it results in 1MHz system clock. This is important if we dont \nsupply an external oscillator otherwise we can not programm it.\n\nhttps://ww1.microchip.com/downloads/en/DeviceDoc/Atmel-7766-8-bit-AVR-ATmega16U4-32U4_Datasheet.pdf#G4.1055626"
+    (at 52.07 171.45 0)
+    (effects (font (size 1.27 1.27)) (justify left bottom))
+    (uuid 04a341af-de86-41fc-8eb5-dbbba113091c)
+  )
   (text "IMPORTANT NOTE:\n\nUnused GPIO are grounded to \nimprove EMC performance. To \nmake best use of this, grounded \nGPIO should be set to:    \n\nOUTPUT LOW + PULLDOWN    \n\nThis will ground the chip through\nthe GPIO pins."
     (at 181.61 101.6 0)
     (effects (font (size 1.27 1.27)) (justify left bottom))
@@ -1481,7 +1486,7 @@
     (property "Reference" "MCU.U.1" (id 0) (at 107.4294 151.13 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Value" "ATmega32U4-A" (id 1) (at 107.4294 153.67 0)
+    (property "Value" "ATmega32U4RC-A" (id 1) (at 107.4294 153.67 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Footprint" "Package_QFP:TQFP-44_10x10mm_P0.8mm" (id 2) (at 105.41 105.41 0)

@@ -514,7 +514,7 @@
     (in_bom yes) (on_board yes)
     (uuid a7608d5a-5ee1-4684-bc9a-4dd60801e46f)
     (property "Reference" "MOS.U.2" (id 0) (at 124.46 85.09 0))
-    (property "Value" "PMW3360DM-T2QU_" (id 1) (at 124.46 125.73 0))
+    (property "Value" "PMW3360DM-T2QU" (id 1) (at 124.46 132.08 0))
     (property "Footprint" "" (id 2) (at 124.46 86.36 0)
       (effects (font (size 1.27 1.27)) hide)
     )

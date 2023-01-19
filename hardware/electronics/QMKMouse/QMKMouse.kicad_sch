@@ -607,16 +607,16 @@
       (reference "#GND_0114") (unit 1) (value "GND") (footprint "")
     )
     (path "/143b26bf-3d77-4275-b4b3-9422596a1eca/f47bb15a-c2ee-4686-bdfd-9eef54840ffa"
-      (reference "BTN.SW.3") (unit 1) (value "SW_DIP_x01") (footprint "")
+      (reference "BTN.SW.3") (unit 1) (value "D2LS-21") (footprint "")
     )
     (path "/143b26bf-3d77-4275-b4b3-9422596a1eca/42f7f18e-a9a5-4fb2-aea7-b7fac6cd35ac"
-      (reference "BTN.SW.4") (unit 1) (value "SW_DIP_x01") (footprint "")
+      (reference "BTN.SW.4") (unit 1) (value "D2LS-21") (footprint "")
     )
     (path "/143b26bf-3d77-4275-b4b3-9422596a1eca/6cec1750-b999-4908-9302-c53cb558f8a7"
-      (reference "BTN.SW.5") (unit 1) (value "SW_DIP_x01") (footprint "")
+      (reference "BTN.SW.5") (unit 1) (value "D2LS-21") (footprint "")
     )
     (path "/143b26bf-3d77-4275-b4b3-9422596a1eca/47ee8438-a94f-4ac1-8e4c-7cc2fd38d130"
-      (reference "BTN.SW.6") (unit 1) (value "SW_DIP_x01") (footprint "")
+      (reference "BTN.SW.6") (unit 1) (value "D2LS-21") (footprint "")
     )
     (path "/143b26bf-3d77-4275-b4b3-9422596a1eca/01a1b476-5c4c-4504-9bbd-a1c173e2e770"
       (reference "BTN.SW.7") (unit 1) (value "SW_DIP_x01") (footprint "")
@@ -631,10 +631,10 @@
       (reference "HOLE.2") (unit 1) (value "MountingHole") (footprint "")
     )
     (path "/143b26bf-3d77-4275-b4b3-9422596a1eca/871fe125-e348-4edd-b549-1bbc70bcbc4c"
-      (reference "LBS.SW.1") (unit 1) (value "SW_DIP_x01") (footprint "")
+      (reference "LBS.SW.1") (unit 1) (value "D2LS-21") (footprint "")
     )
     (path "/143b26bf-3d77-4275-b4b3-9422596a1eca/3274cacf-79bf-4108-9d6a-3c0d1f769892"
-      (reference "LBS.SW.2") (unit 1) (value "SW_DIP_x01") (footprint "")
+      (reference "LBS.SW.2") (unit 1) (value "D2LS-21") (footprint "")
     )
     (path "/a92b64c3-54df-4690-a162-6d6859128b95/59e6d408-2e5e-4aa9-85a1-5150bf27a34c"
       (reference "LED.C.20") (unit 1) (value "0.1uF 100V") (footprint "Capacitor_SMD:C_0805_2012Metric")
@@ -661,28 +661,28 @@
       (reference "LED.C.28") (unit 1) (value "0.1uF 100V") (footprint "Capacitor_SMD:C_0805_2012Metric")
     )
     (path "/a92b64c3-54df-4690-a162-6d6859128b95/2ec1ffcc-09f4-4d64-9679-750a47ba7ed9"
-      (reference "LED.D.1") (unit 1) (value "Inolux_IN-PI554FCH") (footprint "")
+      (reference "LED.D.1") (unit 1) (value "IN-PI55TATPRPGPB") (footprint "")
     )
     (path "/a92b64c3-54df-4690-a162-6d6859128b95/0fcac43a-8dd9-4551-b644-c85328eb09dd"
-      (reference "LED.D.2") (unit 1) (value "Inolux_IN-PI554FCH") (footprint "")
+      (reference "LED.D.2") (unit 1) (value "IN-PI55TATPRPGPB") (footprint "")
     )
     (path "/a92b64c3-54df-4690-a162-6d6859128b95/2b941fd4-f12a-4f72-a94b-b2037cb32ba8"
-      (reference "LED.D.3") (unit 1) (value "Inolux_IN-PI554FCH") (footprint "")
+      (reference "LED.D.3") (unit 1) (value "IN-PI55TATPRPGPB") (footprint "")
     )
     (path "/a92b64c3-54df-4690-a162-6d6859128b95/b05513ea-0993-4f30-8fe6-13bab097d783"
-      (reference "LED.D.4") (unit 1) (value "Inolux_IN-PI554FCH") (footprint "")
+      (reference "LED.D.4") (unit 1) (value "IN-PI55TATPRPGPB") (footprint "")
     )
     (path "/a92b64c3-54df-4690-a162-6d6859128b95/3b3b1396-639a-4635-8ea4-8696ebead2ef"
       (reference "LED.D.5") (unit 1) (value "Inolux_IN-PI554FCH") (footprint "")
     )
     (path "/a92b64c3-54df-4690-a162-6d6859128b95/5666cb2c-1870-4b33-ac08-fb2cb0981119"
-      (reference "LED.D.6") (unit 1) (value "Inolux_IN-PI554FCH") (footprint "")
+      (reference "LED.D.6") (unit 1) (value "IN-PI55TATPRPGPB") (footprint "")
     )
     (path "/a92b64c3-54df-4690-a162-6d6859128b95/9650299b-2f77-4d06-b9b5-915f500986e4"
-      (reference "LED.D.7") (unit 1) (value "Inolux_IN-PI554FCH") (footprint "")
+      (reference "LED.D.7") (unit 1) (value "IN-PI55TATPRPGPB") (footprint "")
     )
     (path "/a92b64c3-54df-4690-a162-6d6859128b95/95e79ead-5156-44bd-a935-c46f6ae71a06"
-      (reference "LED.D.8") (unit 1) (value "Inolux_IN-PI554FCH") (footprint "")
+      (reference "LED.D.8") (unit 1) (value "IN-PI55TATPRPGPB") (footprint "")
     )
     (path "/a92b64c3-54df-4690-a162-6d6859128b95/5ce2a2d5-536d-4b3b-86ff-ffbcb3bc084d"
       (reference "LED.R.16") (unit 1) (value "1k 1%") (footprint "")
@@ -826,7 +826,7 @@
       (reference "MCU.R.20") (unit 1) (value "10k 1%") (footprint "Resistor_SMD:R_0805_2012Metric")
     )
     (path "/3468dd8e-5228-47fc-9e01-0b4967e51943/cba9b6c9-03f6-404c-b93f-135affbf2c05"
-      (reference "MCU.U.1") (unit 1) (value "ATmega32U4-A") (footprint "Package_QFP:TQFP-44_10x10mm_P0.8mm")
+      (reference "MCU.U.1") (unit 1) (value "ATmega32U4RC-A") (footprint "Package_QFP:TQFP-44_10x10mm_P0.8mm")
     )
     (path "/3468dd8e-5228-47fc-9e01-0b4967e51943/5af42c18-ace1-4f65-a4e1-bfaf8d6576c1"
       (reference "MCU.Y.1") (unit 1) (value "8MHz") (footprint "Crystal:Crystal_SMD_5032-4Pin_5.0x3.2mm")
@@ -847,7 +847,7 @@
       (reference "MOS.R.5") (unit 1) (value "10k 1%") (footprint "")
     )
     (path "/61f20a67-021b-4d8e-9d39-163b64f6bf6a/a7608d5a-5ee1-4684-bc9a-4dd60801e46f"
-      (reference "MOS.U.2") (unit 1) (value "PMW3360DM-T2QU_") (footprint "")
+      (reference "MOS.U.2") (unit 1) (value "PMW3360DM-T2QU") (footprint "")
     )
     (path "/98cd3789-66cc-4cf1-bfcd-ca2a138ddd54/c2cec67d-f574-4ef6-a89d-9128e3644585"
       (reference "REG.C.12") (unit 1) (value "1uF 25V") (footprint "Capacitor_SMD:C_0805_2012Metric")
@@ -904,19 +904,19 @@
       (reference "USB.C.19") (unit 1) (value "10uF 25V") (footprint "")
     )
     (path "/edd86220-f5f9-4f6e-b5ac-222411c977fd/0ab658e3-cdb6-4e4f-a1ed-dc150172b64e"
-      (reference "USB.FB.1") (unit 1) (value "FerriteBead 600Ohm") (footprint "")
+      (reference "USB.FB.1") (unit 1) (value "ACML-0805-601-T") (footprint "")
     )
     (path "/edd86220-f5f9-4f6e-b5ac-222411c977fd/3db74dfa-a4f7-45d5-9ea5-423ca665cbaf"
-      (reference "USB.FB.2") (unit 1) (value "FerriteBead 600Ohm") (footprint "")
+      (reference "USB.FB.2") (unit 1) (value "ACML-0805-601-T") (footprint "")
     )
     (path "/edd86220-f5f9-4f6e-b5ac-222411c977fd/6918b2ff-624e-4824-92f8-4319d719929d"
-      (reference "USB.FB.3") (unit 1) (value "FerriteBead 600Ohm") (footprint "")
+      (reference "USB.FB.3") (unit 1) (value "ACML-0805-601-T") (footprint "")
     )
     (path "/edd86220-f5f9-4f6e-b5ac-222411c977fd/66893bd1-caae-4fcc-8048-9b8bb3895e4d"
-      (reference "USB.FB.4") (unit 1) (value "FerriteBead 600Ohm") (footprint "")
+      (reference "USB.FB.4") (unit 1) (value "ACML-0805-601-T Ferrite Bead 600Ohm") (footprint "")
     )
     (path "/edd86220-f5f9-4f6e-b5ac-222411c977fd/0f77b3b0-168e-432f-8338-a94cce9ef033"
-      (reference "USB.FB.5") (unit 1) (value "FerriteBead 600Ohm") (footprint "")
+      (reference "USB.FB.5") (unit 1) (value "ACML-0805-601-T") (footprint "")
     )
     (path "/edd86220-f5f9-4f6e-b5ac-222411c977fd/4058ebf9-ff95-4b60-a534-2407202eb134"
       (reference "USB.J.2") (unit 1) (value "SJ-43514-SMT-TR") (footprint "")
