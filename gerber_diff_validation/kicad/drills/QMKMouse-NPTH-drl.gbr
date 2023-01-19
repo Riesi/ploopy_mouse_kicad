@@ -1,0 +1,54 @@
+%TF.GenerationSoftware,KiCad,Pcbnew,(6.0.10)*%
+%TF.CreationDate,2023-01-19T12:38:20+01:00*%
+%TF.ProjectId,QMKMouse,514d4b4d-6f75-4736-952e-6b696361645f,2.001*%
+%TF.SameCoordinates,PX5c0b167PY839143b*%
+%TF.FileFunction,NonPlated,1,4,NPTH,Mixed*%
+%TF.FilePolarity,Positive*%
+%FSLAX46Y46*%
+G04 Gerber Fmt 4.6, Leading zero omitted, Abs format (unit mm)*
+G04 Created by KiCad (PCBNEW (6.0.10)) date 2023-01-19 12:38:20*
+%MOMM*%
+%LPD*%
+G01*
+G04 APERTURE LIST*
+G04 Aperture macros list*
+%AMHorizOval*
+0 Thick line with rounded ends*
+0 $1 width*
+0 $2 $3 position (X,Y) of the first rounded end (center of the circle)*
+0 $4 $5 position (X,Y) of the second rounded end (center of the circle)*
+0 Add line between two ends*
+20,1,$1,$2,$3,$4,$5,0*
+0 Add two circle primitives to create the rounded ends*
+1,1,$1,$2,$3*
+1,1,$1,$4,$5*%
+G04 Aperture macros list end*
+G04 aperture for slot hole*
+%TA.AperFunction,ComponentDrill*%
+%ADD10HorizOval,0.600000X-0.019311X0.123499X0.019311X-0.123499X0*%
+%TD*%
+%TA.AperFunction,ComponentDrill*%
+%ADD11C,0.600000*%
+%TD*%
+%TA.AperFunction,ComponentDrill*%
+%ADD12C,1.700000*%
+%TD*%
+%TA.AperFunction,ComponentDrill*%
+%ADD13C,3.592000*%
+%TD*%
+G04 APERTURE END LIST*
+D10*
+%TO.C,USB.J.3*%
+X98691445Y40323931D03*
+D11*
+X99618359Y34395966D03*
+D12*
+%TO.C,USB.J.2*%
+X90275001Y46049988D03*
+X97190965Y47131390D03*
+D13*
+%TO.C,HOLE.2*%
+X26132000Y48562000D03*
+%TO.C,HOLE.1*%
+X67003880Y16941559D03*
+M02*

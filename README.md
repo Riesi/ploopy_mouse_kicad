@@ -12,7 +12,44 @@ Finally I fixed the DRC errors generated in the PCB (default design rule setting
 I don't think anything speaks against using this KiCAD version. But be warned that I haven't produced a PCB with it myself! So things could be broken!
 If you just want a working PCB you should use Gerber files produced from the original version instead.
 
-I will try to verify the correctness of the port, but this will take some time. If you want to help verifying the design please do so!
+If you want to help verifying the design please do so!
+
+### Current Validation
+
+Validation has been done with the `Gerbv` tool, which allows to compare two Gerber files and show their difference/overlap.
+The files used for the validation are located in ./gerber_diff_view`. There are also comparison shots of some layers in which the green corresponds to KiCAD and purple to Altium.
+
+![Diff of top layers](gerber_diff_validation/layer_top_diff.png)
+
+#### Labels:
+
+Text is different due to fonts.
+Drawings look correct.
+
+#### Layers:
+
+Only minimal difference due to difference in clearence to the border cut and filling algorithm.
+KiCAD version has a bit more portions filled. This should not be an issue.
+
+#### Edge Cuts:
+
+Shape looks identical.
+Only line width is different, but this doesn't change anything for the cut out PCB.
+Probably due to KiCAD "Edge Cut" layer instead of "Board Outline".
+
+#### Drill:
+Drill holes look correct.
+Mismatch on some holes that are not plated in the fabricated PCB, but Altium files still contain them as plated.
+Should be no problem.
+
+#### Drill Maps:
+No drill mapped to optical sensor in KiCAD, but this should not be an issue.
+
+#### Masks:
+Match.
+
+#### Pastes:
+Match.
 
 # The Ploopy Mouse
 
