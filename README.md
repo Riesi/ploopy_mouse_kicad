@@ -1,7 +1,7 @@
 # DISCLAIMER
 ## How was this ported to KiCAD?
 
-The heavy lifting was done by the [altium2kicad](https://github.com/thesourcerer8/altium2kicad) converter. If you like this port do consider donating to this project!
+The heavy lifting was done by the [altium2kicad](https://github.com/thesourcerer8/altium2kicad) converter. If you like this port do consider donating to the converter project!
 
 After that I took the converted files and pruned unnecessary ones. Then I fixed the schematics by replacing the broken symbols with either existing ones or created custom symbols.
 All components have been named as they appear in the PCB to allow for relinking of the footprints with the `Update Schematic from PCB` option in eeschema.
