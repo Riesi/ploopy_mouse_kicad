@@ -28,7 +28,7 @@ Drawings look correct.
 
 #### Layers:
 
-Only minimal difference due to difference in clearence to the border cut and filling algorithm.
+Only minimal difference due to difference in clearance to the border cut and filling algorithm.
 KiCAD version has a bit more portions filled. This should not be an issue.
 
 #### Edge Cuts:
