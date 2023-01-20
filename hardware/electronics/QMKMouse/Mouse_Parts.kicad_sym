@@ -792,7 +792,7 @@
     (property "Value" "Spark_gap" (id 1) (at 6.35 -3.81 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Footprint" "Mouse_Parts:Spark gap" (id 2) (at 0 0 0)
+    (property "Footprint" "Mouse_Parts:Spark gap" (id 2) (at 0 -0.635 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "" (id 3) (at 0 0 0)
@@ -815,7 +815,7 @@
     (symbol "Spark_gap_1_1"
       (pin input line (at 0 0 90) (length 1.27)
         (name "" (effects (font (size 1.27 1.27))))
-        (number "" (effects (font (size 1.27 1.27))))
+        (number "1" (effects (font (size 1.27 1.27))))
       )
     )
   )

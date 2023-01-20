@@ -706,88 +706,88 @@
       (reference "MCH.LOGO.2") (unit 1) (value "Coordinate_system_marker") (footprint "Graphics.PcbLib:Coordinate System")
     )
     (path "/8a8b6b69-ddaf-44c3-83ab-81bc329be645/4eaaaa82-01cf-416e-b9b9-03037872ab76"
-      (reference "MCH.SP.1") (unit 1) (value "Spark_gap") (footprint "PCBFeatures.PcbLib:SparkGap")
+      (reference "MCH.SP.1") (unit 1) (value "Spark_gap") (footprint "Mouse_Parts:Spark gap")
     )
     (path "/8a8b6b69-ddaf-44c3-83ab-81bc329be645/f0581f48-c46a-4eea-8719-b778ae7535bc"
-      (reference "MCH.SP.2") (unit 1) (value "Spark_gap") (footprint "PCBFeatures.PcbLib:SparkGap")
+      (reference "MCH.SP.2") (unit 1) (value "Spark_gap") (footprint "Mouse_Parts:Spark gap")
     )
     (path "/8a8b6b69-ddaf-44c3-83ab-81bc329be645/789285c4-974a-4c94-8fbf-89d7af31e6da"
-      (reference "MCH.SP.3") (unit 1) (value "Spark_gap") (footprint "PCBFeatures.PcbLib:SparkGap")
+      (reference "MCH.SP.3") (unit 1) (value "Spark_gap") (footprint "Mouse_Parts:Spark gap")
     )
     (path "/8a8b6b69-ddaf-44c3-83ab-81bc329be645/40353d28-7419-4122-96e3-4a04acff5990"
-      (reference "MCH.SP.4") (unit 1) (value "Spark_gap") (footprint "PCBFeatures.PcbLib:SparkGap")
+      (reference "MCH.SP.4") (unit 1) (value "Spark_gap") (footprint "Mouse_Parts:Spark gap")
     )
     (path "/8a8b6b69-ddaf-44c3-83ab-81bc329be645/4619e6be-fba4-45ca-8a59-2c494d3bae60"
-      (reference "MCH.SP.5") (unit 1) (value "Spark_gap") (footprint "PCBFeatures.PcbLib:SparkGap")
+      (reference "MCH.SP.5") (unit 1) (value "Spark_gap") (footprint "Mouse_Parts:Spark gap")
     )
     (path "/8a8b6b69-ddaf-44c3-83ab-81bc329be645/ed22217c-4bbb-4998-b272-7147101a66d1"
-      (reference "MCH.SP.6") (unit 1) (value "Spark_gap") (footprint "PCBFeatures.PcbLib:SparkGap")
+      (reference "MCH.SP.6") (unit 1) (value "Spark_gap") (footprint "Mouse_Parts:Spark gap")
     )
     (path "/8a8b6b69-ddaf-44c3-83ab-81bc329be645/319fd250-09db-4d64-a270-c0d1c4cdfe6a"
-      (reference "MCH.SP.7") (unit 1) (value "Spark_gap") (footprint "PCBFeatures.PcbLib:SparkGap")
+      (reference "MCH.SP.7") (unit 1) (value "Spark_gap") (footprint "Mouse_Parts:Spark gap")
     )
     (path "/8a8b6b69-ddaf-44c3-83ab-81bc329be645/5fa9de8f-4134-45ba-8819-278c0347145b"
-      (reference "MCH.SP.8") (unit 1) (value "Spark_gap") (footprint "PCBFeatures.PcbLib:SparkGap")
+      (reference "MCH.SP.8") (unit 1) (value "Spark_gap") (footprint "Mouse_Parts:Spark gap")
     )
     (path "/8a8b6b69-ddaf-44c3-83ab-81bc329be645/74239e10-1c89-4e1b-8f2e-f2c309df2d0a"
-      (reference "MCH.SP.9") (unit 1) (value "Spark_gap") (footprint "PCBFeatures.PcbLib:SparkGap")
+      (reference "MCH.SP.9") (unit 1) (value "Spark_gap") (footprint "Mouse_Parts:Spark gap")
     )
     (path "/8a8b6b69-ddaf-44c3-83ab-81bc329be645/eb100b5e-c086-49d7-b2e1-1c74e3966dfc"
-      (reference "MCH.SP.10") (unit 1) (value "Spark_gap") (footprint "PCBFeatures.PcbLib:SparkGap")
+      (reference "MCH.SP.10") (unit 1) (value "Spark_gap") (footprint "Mouse_Parts:Spark gap")
     )
     (path "/8a8b6b69-ddaf-44c3-83ab-81bc329be645/b18ea499-0397-4598-ac41-ea64d73dbc29"
-      (reference "MCH.SP.11") (unit 1) (value "Spark_gap") (footprint "PCBFeatures.PcbLib:SparkGap")
+      (reference "MCH.SP.11") (unit 1) (value "Spark_gap") (footprint "Mouse_Parts:Spark gap")
     )
     (path "/8a8b6b69-ddaf-44c3-83ab-81bc329be645/8d0d17fe-4d73-4864-979d-e88b5d40a2b3"
-      (reference "MCH.SP.12") (unit 1) (value "Spark_gap") (footprint "PCBFeatures.PcbLib:SparkGap")
+      (reference "MCH.SP.12") (unit 1) (value "Spark_gap") (footprint "Mouse_Parts:Spark gap")
     )
     (path "/8a8b6b69-ddaf-44c3-83ab-81bc329be645/6a70236c-4885-43f6-a0d9-c14a270a8b86"
-      (reference "MCH.SP.13") (unit 1) (value "Spark_gap") (footprint "PCBFeatures.PcbLib:SparkGap")
+      (reference "MCH.SP.13") (unit 1) (value "Spark_gap") (footprint "Mouse_Parts:Spark gap")
     )
     (path "/8a8b6b69-ddaf-44c3-83ab-81bc329be645/be5107a4-b97b-4519-89f8-d415ee175d55"
-      (reference "MCH.SP.14") (unit 1) (value "Spark_gap") (footprint "PCBFeatures.PcbLib:SparkGap")
+      (reference "MCH.SP.14") (unit 1) (value "Spark_gap") (footprint "Mouse_Parts:Spark gap")
     )
     (path "/8a8b6b69-ddaf-44c3-83ab-81bc329be645/edf937dc-988e-4ebd-9d75-325186bc06a8"
-      (reference "MCH.SP.15") (unit 1) (value "Spark_gap") (footprint "PCBFeatures.PcbLib:SparkGap")
+      (reference "MCH.SP.15") (unit 1) (value "Spark_gap") (footprint "Mouse_Parts:Spark gap")
     )
     (path "/8a8b6b69-ddaf-44c3-83ab-81bc329be645/7f640a07-76df-4f2a-9669-d246eaa572ea"
-      (reference "MCH.SP.16") (unit 1) (value "Spark_gap") (footprint "PCBFeatures.PcbLib:SparkGap")
+      (reference "MCH.SP.16") (unit 1) (value "Spark_gap") (footprint "Mouse_Parts:Spark gap")
     )
     (path "/8a8b6b69-ddaf-44c3-83ab-81bc329be645/a841e47e-f8eb-467d-9027-a645875b7892"
-      (reference "MCH.SP.17") (unit 1) (value "Spark_gap") (footprint "PCBFeatures.PcbLib:SparkGap")
+      (reference "MCH.SP.17") (unit 1) (value "Spark_gap") (footprint "Mouse_Parts:Spark gap")
     )
     (path "/8a8b6b69-ddaf-44c3-83ab-81bc329be645/01ba9d89-f4ce-4c1e-b587-6d39e16009fb"
-      (reference "MCH.SP.18") (unit 1) (value "Spark_gap") (footprint "PCBFeatures.PcbLib:SparkGap")
+      (reference "MCH.SP.18") (unit 1) (value "Spark_gap") (footprint "Mouse_Parts:Spark gap")
     )
     (path "/8a8b6b69-ddaf-44c3-83ab-81bc329be645/07c1140a-bf80-48de-bd5b-fb5ab38624b2"
-      (reference "MCH.SP.19") (unit 1) (value "Spark_gap") (footprint "PCBFeatures.PcbLib:SparkGap")
+      (reference "MCH.SP.19") (unit 1) (value "Spark_gap") (footprint "Mouse_Parts:Spark gap")
     )
     (path "/8a8b6b69-ddaf-44c3-83ab-81bc329be645/7b1faa82-4b0d-4c83-a0ee-4c1c120de66d"
-      (reference "MCH.SP.20") (unit 1) (value "Spark_gap") (footprint "PCBFeatures.PcbLib:SparkGap")
+      (reference "MCH.SP.20") (unit 1) (value "Spark_gap") (footprint "Mouse_Parts:Spark gap")
     )
     (path "/8a8b6b69-ddaf-44c3-83ab-81bc329be645/517ee80a-99b5-48dd-999d-3332969d72c1"
-      (reference "MCH.SP.21") (unit 1) (value "Spark_gap") (footprint "PCBFeatures.PcbLib:SparkGap")
+      (reference "MCH.SP.21") (unit 1) (value "Spark_gap") (footprint "Mouse_Parts:Spark gap")
     )
     (path "/8a8b6b69-ddaf-44c3-83ab-81bc329be645/d2b436a8-43cf-46a8-bec9-a05649a6be91"
-      (reference "MCH.SP.22") (unit 1) (value "Spark_gap") (footprint "PCBFeatures.PcbLib:SparkGap")
+      (reference "MCH.SP.22") (unit 1) (value "Spark_gap") (footprint "Mouse_Parts:Spark gap")
     )
     (path "/8a8b6b69-ddaf-44c3-83ab-81bc329be645/f6b54af2-fec6-432a-9aad-72b89464b21f"
-      (reference "MCH.SP.23") (unit 1) (value "Spark_gap") (footprint "PCBFeatures.PcbLib:SparkGap")
+      (reference "MCH.SP.23") (unit 1) (value "Spark_gap") (footprint "Mouse_Parts:Spark gap")
     )
     (path "/8a8b6b69-ddaf-44c3-83ab-81bc329be645/ea909a8e-0a23-4ea0-b3e5-a4b7888ca895"
-      (reference "MCH.SP.24") (unit 1) (value "Spark_gap") (footprint "PCBFeatures.PcbLib:SparkGap")
+      (reference "MCH.SP.24") (unit 1) (value "Spark_gap") (footprint "Mouse_Parts:Spark gap")
     )
     (path "/8a8b6b69-ddaf-44c3-83ab-81bc329be645/65c41bc2-90f4-44a4-ac81-2b61e9fbb1b9"
-      (reference "MCH.SP.25") (unit 1) (value "Spark_gap") (footprint "PCBFeatures.PcbLib:SparkGap")
+      (reference "MCH.SP.25") (unit 1) (value "Spark_gap") (footprint "Mouse_Parts:Spark gap")
     )
     (path "/8a8b6b69-ddaf-44c3-83ab-81bc329be645/63aa9607-4ce6-4210-a613-4840b913ee02"
-      (reference "MCH.SP.26") (unit 1) (value "Spark_gap") (footprint "PCBFeatures.PcbLib:SparkGap")
+      (reference "MCH.SP.26") (unit 1) (value "Spark_gap") (footprint "Mouse_Parts:Spark gap")
     )
     (path "/8a8b6b69-ddaf-44c3-83ab-81bc329be645/fabfa446-8f12-4919-b928-927332720754"
-      (reference "MCH.SP.27") (unit 1) (value "Spark_gap") (footprint "PCBFeatures.PcbLib:SparkGap")
+      (reference "MCH.SP.27") (unit 1) (value "Spark_gap") (footprint "Mouse_Parts:Spark gap")
     )
     (path "/8a8b6b69-ddaf-44c3-83ab-81bc329be645/383b347d-9460-4a7d-be57-ca0aaa448809"
-      (reference "MCH.SP.28") (unit 1) (value "Spark_gap") (footprint "PCBFeatures.PcbLib:SparkGap")
+      (reference "MCH.SP.28") (unit 1) (value "Spark_gap") (footprint "Mouse_Parts:Spark gap")
     )
     (path "/3468dd8e-5228-47fc-9e01-0b4967e51943/f0b8ec2d-5c5a-416c-b129-d5f15c674bbf"
       (reference "MCU.C.1") (unit 1) (value "1uF 25V") (footprint "Chip_Passives.PcbLib:0805")
