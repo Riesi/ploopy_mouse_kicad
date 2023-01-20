@@ -837,7 +837,7 @@
       (reference "MOS.C.10") (unit 1) (value "10uF 25V") (footprint "Chip_Passives.PcbLib:0805")
     )
     (path "/61f20a67-021b-4d8e-9d39-163b64f6bf6a/9777be11-b72a-46d6-8d8f-ce76e510796b"
-      (reference "MOS.C.11") (unit 1) (value "10uF 25V") (footprint "Chip_Passives.PcbLib:0805")
+      (reference "MOS.C.11") (unit 1) (value "0.1uF 100V") (footprint "Chip_Passives.PcbLib:0805")
     )
     (path "/61f20a67-021b-4d8e-9d39-163b64f6bf6a/f3ecd800-9a2c-472e-a2be-9cc59317ab02"
       (reference "MOS.R.3") (unit 1) (value "22R 1%") (footprint "Chip_Passives.PcbLib:0805")
@@ -891,13 +891,13 @@
       (reference "SCW.Qt.2") (unit 1) (value "PT26-51B/TR8 or PT12-21B/TR8") (footprint "OptoElectronics.PcbLib:PT26-51B-TR8")
     )
     (path "/abb8f21a-2f7a-4a8b-860b-596db9596519/4c25b79c-3ba8-4f82-852e-32eace5522f2"
-      (reference "SCW.R.1") (unit 1) (value "100 1%") (footprint "Chip_Passives.PcbLib:0805")
+      (reference "SCW.R.1") (unit 1) (value "100R 1%") (footprint "Chip_Passives.PcbLib:0805")
     )
     (path "/abb8f21a-2f7a-4a8b-860b-596db9596519/eae77762-0878-42d3-a252-1d4f12027d31"
       (reference "SCW.R.2") (unit 1) (value "1k 1%") (footprint "Chip_Passives.PcbLib:0805")
     )
     (path "/abb8f21a-2f7a-4a8b-860b-596db9596519/2aae1e19-d340-442f-840d-b3a1b2c90b43"
-      (reference "SCW.R.3") (unit 1) (value "100 1%") (footprint "Chip_Passives.PcbLib:0805")
+      (reference "SCW.R.3") (unit 1) (value "100R 1%") (footprint "Chip_Passives.PcbLib:0805")
     )
     (path "/abb8f21a-2f7a-4a8b-860b-596db9596519/e5ebeb14-acd2-4bc7-b82d-b01a7c952184"
       (reference "SCW.R.4") (unit 1) (value "1k 1%") (footprint "Chip_Passives.PcbLib:0805")

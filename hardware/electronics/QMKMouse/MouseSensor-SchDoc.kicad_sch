@@ -473,7 +473,7 @@
     (property "Reference" "MOS.C.11" (id 0) (at 99.06 93.98 0)
       (effects (font (size 1.27 1.27)) (justify right))
     )
-    (property "Value" "10uF 25V" (id 1) (at 100.33 96.52 0)
+    (property "Value" "0.1uF 100V" (id 1) (at 100.33 96.52 0)
       (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Footprint" "Chip_Passives.PcbLib:0805" (id 2) (at 102.5652 90.17 0)

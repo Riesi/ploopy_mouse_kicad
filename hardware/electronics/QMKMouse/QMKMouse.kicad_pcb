@@ -527,7 +527,7 @@
       (effects (font (size 1.27 1.27) (thickness 0.15)))
       (tstamp a2244bea-5b39-4321-89f0-67ac744168df)
     )
-    (fp_text value "MountingHole" (at 0 0) (layer "F.SilkS")
+    (fp_text value "MountingHole" (at 0 0) (layer "F.SilkS") hide
       (effects (font (size 1.27 1.27) (thickness 0.15)))
       (tstamp 8454fcd8-52da-423c-8e79-97d858808781)
     )
@@ -1807,7 +1807,7 @@
       (effects (font (size 0.635 0.635) (thickness 0.254)) (justify left bottom))
       (tstamp 006f4faf-f210-4e31-9696-1703fc725527)
     )
-    (fp_text value "10uF 25V" (at -1.545668 3.061874 unlocked) (layer "F.SilkS") hide
+    (fp_text value "0.1uF 100V" (at -1.545668 3.061874 unlocked) (layer "F.SilkS") hide
       (effects (font (size 0.762 0.762) (thickness 0.254)) (justify left bottom))
       (tstamp 3b0f7b50-cf36-484a-bb81-26dac48f7136)
     )
@@ -2068,7 +2068,7 @@
       (effects (font (size 0.635 0.635) (thickness 0.254)) (justify left bottom))
       (tstamp 6d683a72-4c0c-4119-88de-6f1ff58a0ba6)
     )
-    (fp_text value "100 1%" (at -1.545669 3.061876 unlocked) (layer "F.SilkS") hide
+    (fp_text value "100R 1%" (at -1.545669 3.061876 unlocked) (layer "F.SilkS") hide
       (effects (font (size 0.762 0.762) (thickness 0.254)) (justify left bottom))
       (tstamp 6b838a3a-92fc-4c3a-bdf5-c04e19d3c428)
     )
@@ -2543,7 +2543,7 @@
       (effects (font (size 1.27 1.27) (thickness 0.15)))
       (tstamp aa26cf66-fb39-4ac3-9d3c-670a1e872161)
     )
-    (fp_text value "MountingHole" (at 0 0) (layer "F.SilkS")
+    (fp_text value "MountingHole" (at 0 0) (layer "F.SilkS") hide
       (effects (font (size 1.27 1.27) (thickness 0.15)))
       (tstamp c08ee146-2a35-40fb-a4d5-e7d630ed7e15)
     )
@@ -3816,7 +3816,7 @@
       (effects (font (size 0.635 0.635) (thickness 0.254)) (justify left bottom))
       (tstamp 1966c7ea-7770-4844-a4b4-3d6743bcba12)
     )
-    (fp_text value "100 1%" (at 3.061875 1.545669 unlocked) (layer "F.SilkS") hide
+    (fp_text value "100R 1%" (at 3.061875 1.545669 unlocked) (layer "F.SilkS") hide
       (effects (font (size 0.762 0.762) (thickness 0.254)) (justify left bottom))
       (tstamp 0d318d7e-9561-4a15-9714-7755043d6ccd)
     )
