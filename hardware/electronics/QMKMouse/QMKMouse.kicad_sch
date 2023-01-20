@@ -877,16 +877,16 @@
       (reference "REG.U.4") (unit 1) (value "AP2204K-1.8") (footprint "PowerSupply.PcbLib:AP2202 - SOT95P270X145-5N")
     )
     (path "/abb8f21a-2f7a-4a8b-860b-596db9596519/ceb6d5d7-2a9c-4f60-ab60-7451edaeb2f2"
-      (reference "SCW.D.11") (unit 1) (value "IR12-21C/TR8 or VSMB10940 ") (footprint "LEDs.PcbLib:IR12-21C{slash}TR8")
+      (reference "SCW.D.11") (unit 1) (value "IR12-21C/TR8 or VSMB10940 ") (footprint "LEDs.PcbLib:IR12-21C-TR8")
     )
     (path "/abb8f21a-2f7a-4a8b-860b-596db9596519/2e75aba2-6e8a-47c9-92cd-60606cd02be5"
-      (reference "SCW.D.12") (unit 1) (value "IR12-21C/TR8 or VSMB10940 ") (footprint "LEDs.PcbLib:IR12-21C{slash}TR8")
+      (reference "SCW.D.12") (unit 1) (value "IR12-21C/TR8 or VSMB10940 ") (footprint "LEDs.PcbLib:IR12-21C-TR8")
     )
     (path "/abb8f21a-2f7a-4a8b-860b-596db9596519/f302e460-4a98-43f3-89c4-b9170bbe5098"
-      (reference "SCW.Qt.1") (unit 1) (value "PT26-51B/TR8 or PT12-21B/TR8") (footprint "OptoElectronics.PcbLib:PT26-51B{slash}TR8")
+      (reference "SCW.Qt.1") (unit 1) (value "PT26-51B/TR8 or PT12-21B/TR8") (footprint "OptoElectronics.PcbLib:PT26-51B-TR8")
     )
     (path "/abb8f21a-2f7a-4a8b-860b-596db9596519/417bbe04-bcc8-4ef5-b9d8-13f6e1ebe218"
-      (reference "SCW.Qt.2") (unit 1) (value "PT26-51B/TR8 or PT12-21B/TR8") (footprint "OptoElectronics.PcbLib:PT26-51B{slash}TR8")
+      (reference "SCW.Qt.2") (unit 1) (value "PT26-51B/TR8 or PT12-21B/TR8") (footprint "OptoElectronics.PcbLib:PT26-51B-TR8")
     )
     (path "/abb8f21a-2f7a-4a8b-860b-596db9596519/4c25b79c-3ba8-4f82-852e-32eace5522f2"
       (reference "SCW.R.1") (unit 1) (value "100 1%") (footprint "Chip_Passives.PcbLib:0805")
