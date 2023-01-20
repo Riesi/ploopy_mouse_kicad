@@ -210,7 +210,6 @@
     )
   )
 
-
   (junction (at 91.44 68.58) (diameter 0) (color 0 0 0 0)
     (uuid 0a4a548d-2849-4f39-a298-60df639cfaf4)
   )
@@ -242,7 +241,7 @@
     (uuid bc94de0e-bbe3-4062-8d52-710047f891a5)
   )
   (junction (at 91.44 78.74) (diameter 0) (color 0 0 0 0)
-    (uuid c418a4fa-7de5-405f-9949-694c78a537ab)
+    (uuid f3bc1510-f630-49a3-80e6-b3c125e41b56)
   )
 
   (wire (pts (xy 107.95 71.12) (xy 105.41 71.12))
@@ -260,10 +259,6 @@
   (wire (pts (xy 104.14 132.08) (xy 106.68 132.08))
     (stroke (width 0) (type default) (color 0 0 0 0))
     (uuid 3675652a-0478-4378-8066-e8ab6d584630)
-  )
-  (wire (pts (xy 91.44 78.74) (xy 115.57 78.74))
-    (stroke (width 0) (type default) (color 0 0 0 0))
-    (uuid 43588b81-29de-4093-a1b1-04e141371946)
   )
   (wire (pts (xy 106.68 134.62) (xy 104.14 134.62))
     (stroke (width 0) (type default) (color 0 0 0 0))
@@ -309,6 +304,10 @@
     (stroke (width 0) (type default) (color 0 0 0 0))
     (uuid afe3edd5-73df-43b9-b41b-6a458dd9b87e)
   )
+  (wire (pts (xy 91.44 78.74) (xy 115.57 78.74))
+    (stroke (width 0) (type default) (color 0 0 0 0))
+    (uuid b1a683ae-9cba-4bc8-b348-eb6c3af3af4f)
+  )
   (wire (pts (xy 81.28 68.58) (xy 91.44 68.58))
     (stroke (width 0) (type default) (color 0 0 0 0))
     (uuid b7ad76d1-2215-4512-b0d5-bb5037318dcc)
@@ -334,7 +333,7 @@
     (uuid f0cf563e-8eea-4c38-9205-203615c3757c)
   )
 
-  (hierarchical_label "V_USB" (shape output) (at 78.74 68.58 180)
+  (hierarchical_label "V_USB" (shape input) (at 78.74 68.58 180)
     (effects (font (size 1.524 1.524)) (justify right))
     (uuid 34884005-ff56-4f40-85c3-4168c807106b)
   )

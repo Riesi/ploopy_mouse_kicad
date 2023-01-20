@@ -1013,7 +1013,7 @@
       )
     )
     (symbol "USB_C_Receptacle_USB2.0_1_1"
-      (pin output line (at 15.24 15.24 180) (length 5.08)
+      (pin power_out line (at 15.24 15.24 180) (length 5.08)
         (name "GND" (effects (font (size 1.27 1.27))))
         (number "1" (effects (font (size 1.27 1.27))))
       )
@@ -1029,7 +1029,7 @@
         (name "GND" (effects (font (size 1.27 1.27))))
         (number "12" (effects (font (size 1.27 1.27))))
       )
-      (pin output line (at 15.24 12.7 180) (length 5.08)
+      (pin power_out line (at 15.24 12.7 180) (length 5.08)
         (name "VBUS" (effects (font (size 1.27 1.27))))
         (number "2" (effects (font (size 1.27 1.27))))
       )
