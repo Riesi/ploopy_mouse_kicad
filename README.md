@@ -17,7 +17,7 @@ If you want to help verifying the design please do so!
 ### Current Validation
 
 Validation has been done with the `Gerbv` tool, which allows to compare two Gerber files and show their difference/overlap.
-The files used for the validation are located in `./gerber_diff_view`. You can run the `diff_gerber.sh` to verify some of the Gerber files yourself. Be sure to generate the KiCAD Gerber in the following path `hardware/electronics/QMKMouse/gerber/` There are also comparison shots of some layers in which the white corresponds to KiCAD, green to Altium and purple to the matching XOR of both.
+The files used for the validation are located in `./gerber_diff_view`. You can run the `diff_gerber.sh` to verify some of the Gerber files yourself. Be sure to generate the KiCAD Gerber in the following path `hardware/electronics/QMKMouse/gerber/` before running the script. There are also comparison shots of some layers in which the white corresponds to KiCAD, green to Altium and purple to the matching XOR of both.
 
 ![Diff of top layers](gerber_diff_validation/layer_top_diff.png)
 
