@@ -878,7 +878,7 @@
     (path "/98cd3789-66cc-4cf1-bfcd-ca2a138ddd54/d6fe36a2-91bc-410c-9a93-9512dd16e85a"
       (reference "REG.U.4") (unit 1) (value "AP2204K-1.8") (footprint "PowerSupply.PcbLib:AP2202 - SOT95P270X145-5N")
     )
-    (path "/abb8f21a-2f7a-4a8b-860b-596db9596519/ceb6d5d7-2a9c-4f60-ab60-7451edaeb2f2"
+    (path "/abb8f21a-2f7a-4a8b-860b-596db9596519/1f44b928-0001-449d-898d-d195725b2f48"
       (reference "SCW.D.11") (unit 1) (value "IR12-21C/TR8 or VSMB10940 ") (footprint "LEDs.PcbLib:IR12-21C-TR8")
     )
     (path "/abb8f21a-2f7a-4a8b-860b-596db9596519/2e75aba2-6e8a-47c9-92cd-60606cd02be5"
@@ -939,10 +939,10 @@
       (reference "USB.R.9") (unit 1) (value "10k 1%") (footprint "Chip_Passives.PcbLib:0805")
     )
     (path "/edd86220-f5f9-4f6e-b5ac-222411c977fd/fc17c5f7-3f71-4a6b-aeaa-80f005ea994a"
-      (reference "USB.R.10") (unit 1) (value "100R 1%") (footprint "Chip_Passives.PcbLib:0805")
+      (reference "USB.R.10") (unit 1) (value "22R 1%") (footprint "Chip_Passives.PcbLib:0805")
     )
     (path "/edd86220-f5f9-4f6e-b5ac-222411c977fd/1f700b6c-cfd4-4af6-b71c-7f1460f7d616"
-      (reference "USB.R.11") (unit 1) (value "100R 1%") (footprint "Chip_Passives.PcbLib:0805")
+      (reference "USB.R.11") (unit 1) (value "22R 1%") (footprint "Chip_Passives.PcbLib:0805")
     )
     (path "/edd86220-f5f9-4f6e-b5ac-222411c977fd/2a6752f9-57e7-480f-b6a6-3c8ae169d967"
       (reference "USB.R.12") (unit 1) (value "10k 1%") (footprint "Chip_Passives.PcbLib:0805")
