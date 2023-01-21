@@ -1371,7 +1371,7 @@
   )
 
   (symbol (lib_name "Spark_gap_1") (lib_id "Mouse_Parts:Spark_gap") (at 180.34 109.22 0) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom no) (on_board yes)
     (uuid 01ba9d89-f4ce-4c1e-b587-6d39e16009fb)
     (property "Reference" "MCH.SP.18" (id 0) (at 175.26 102.87 0)
       (effects (font (size 1.27 1.27)) (justify left))
@@ -1389,7 +1389,7 @@
   )
 
   (symbol (lib_name "Spark_gap_3") (lib_id "Mouse_Parts:Spark_gap") (at 187.96 109.22 0) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom no) (on_board yes)
     (uuid 07c1140a-bf80-48de-bd5b-fb5ab38624b2)
     (property "Reference" "MCH.SP.19" (id 0) (at 182.88 105.41 0)
       (effects (font (size 1.27 1.27)) (justify left))
@@ -1407,7 +1407,7 @@
   )
 
   (symbol (lib_name "Spark_gap_6") (lib_id "Mouse_Parts:Spark_gap") (at 170.18 83.82 0) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom no) (on_board yes)
     (uuid 319fd250-09db-4d64-a270-c0d1c4cdfe6a)
     (property "Reference" "MCH.SP.7" (id 0) (at 165.1 80.01 0)
       (effects (font (size 1.27 1.27)) (justify left))
@@ -1425,7 +1425,7 @@
   )
 
   (symbol (lib_name "Spark_gap_27") (lib_id "Mouse_Parts:Spark_gap") (at 187.96 134.62 0) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom no) (on_board yes)
     (uuid 383b347d-9460-4a7d-be57-ca0aaa448809)
     (property "Reference" "MCH.SP.28" (id 0) (at 182.88 130.81 0)
       (effects (font (size 1.27 1.27)) (justify left))
@@ -1443,7 +1443,7 @@
   )
 
   (symbol (lib_id "Mouse_Parts:Fiducial") (at 73.66 53.34 0) (unit 1)
-    (in_bom yes) (on_board yes) (fields_autoplaced)
+    (in_bom no) (on_board yes) (fields_autoplaced)
     (uuid 3af35453-efb4-4600-b175-3f9a5476d498)
     (property "Reference" "MCH.FID.2" (id 0) (at 76.2 52.0699 0)
       (effects (font (size 1.27 1.27)) (justify left))
@@ -1461,7 +1461,7 @@
   )
 
   (symbol (lib_id "Mechanical:MountingHole") (at 74.93 69.85 0) (unit 1)
-    (in_bom yes) (on_board yes) (fields_autoplaced)
+    (in_bom no) (on_board yes) (fields_autoplaced)
     (uuid 3d35f6ef-1b08-4a68-aa21-096a5a7354d1)
     (property "Reference" "HOLE.2" (id 0) (at 77.47 68.5799 0)
       (effects (font (size 1.27 1.27)) (justify left))
@@ -1478,7 +1478,7 @@
   )
 
   (symbol (lib_name "Spark_gap_13") (lib_id "Mouse_Parts:Spark_gap") (at 151.13 83.82 0) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom no) (on_board yes)
     (uuid 40353d28-7419-4122-96e3-4a04acff5990)
     (property "Reference" "MCH.SP.4" (id 0) (at 146.05 77.47 0)
       (effects (font (size 1.27 1.27)) (justify left))
@@ -1496,7 +1496,7 @@
   )
 
   (symbol (lib_name "Spark_gap_5") (lib_id "Mouse_Parts:Spark_gap") (at 158.75 83.82 0) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom no) (on_board yes)
     (uuid 4619e6be-fba4-45ca-8a59-2c494d3bae60)
     (property "Reference" "MCH.SP.5" (id 0) (at 153.67 80.01 0)
       (effects (font (size 1.27 1.27)) (justify left))
@@ -1514,7 +1514,7 @@
   )
 
   (symbol (lib_name "Spark_gap_19") (lib_id "Mouse_Parts:Spark_gap") (at 135.89 83.82 0) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom no) (on_board yes)
     (uuid 4eaaaa82-01cf-416e-b9b9-03037872ab76)
     (property "Reference" "MCH.SP.1" (id 0) (at 130.81 80.01 0)
       (effects (font (size 1.27 1.27)) (justify left))
@@ -1532,7 +1532,7 @@
   )
 
   (symbol (lib_name "Spark_gap_25") (lib_id "Mouse_Parts:Spark_gap") (at 157.48 134.62 0) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom no) (on_board yes)
     (uuid 517ee80a-99b5-48dd-999d-3332969d72c1)
     (property "Reference" "MCH.SP.21" (id 0) (at 152.4 128.27 0)
       (effects (font (size 1.27 1.27)) (justify left))
@@ -1550,7 +1550,7 @@
   )
 
   (symbol (lib_name "Spark_gap_17") (lib_id "Mouse_Parts:Spark_gap") (at 173.99 83.82 0) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom no) (on_board yes)
     (uuid 5fa9de8f-4134-45ba-8819-278c0347145b)
     (property "Reference" "MCH.SP.8" (id 0) (at 168.91 77.47 0)
       (effects (font (size 1.27 1.27)) (justify left))
@@ -1568,7 +1568,7 @@
   )
 
   (symbol (lib_name "Spark_gap_22") (lib_id "Mouse_Parts:Spark_gap") (at 165.1 134.62 0) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom no) (on_board yes)
     (uuid 63aa9607-4ce6-4210-a613-4840b913ee02)
     (property "Reference" "MCH.SP.26" (id 0) (at 160.02 130.81 0)
       (effects (font (size 1.27 1.27)) (justify left))
@@ -1586,7 +1586,7 @@
   )
 
   (symbol (lib_name "Spark_gap_26") (lib_id "Mouse_Parts:Spark_gap") (at 153.67 134.62 0) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom no) (on_board yes)
     (uuid 65c41bc2-90f4-44a4-ac81-2b61e9fbb1b9)
     (property "Reference" "MCH.SP.25" (id 0) (at 148.59 130.81 0)
       (effects (font (size 1.27 1.27)) (justify left))
@@ -1604,7 +1604,7 @@
   )
 
   (symbol (lib_name "Spark_gap_8") (lib_id "Mouse_Parts:Spark_gap") (at 153.67 109.22 0) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom no) (on_board yes)
     (uuid 6a70236c-4885-43f6-a0d9-c14a270a8b86)
     (property "Reference" "MCH.SP.13" (id 0) (at 148.59 105.41 0)
       (effects (font (size 1.27 1.27)) (justify left))
@@ -1622,7 +1622,7 @@
   )
 
   (symbol (lib_name "Spark_gap_7") (lib_id "Mouse_Parts:Spark_gap") (at 181.61 83.82 0) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom no) (on_board yes)
     (uuid 74239e10-1c89-4e1b-8f2e-f2c309df2d0a)
     (property "Reference" "MCH.SP.9" (id 0) (at 176.53 80.01 0)
       (effects (font (size 1.27 1.27)) (justify left))
@@ -1640,7 +1640,7 @@
   )
 
   (symbol (lib_name "Spark_gap_18") (lib_id "Mouse_Parts:Spark_gap") (at 147.32 83.82 0) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom no) (on_board yes)
     (uuid 789285c4-974a-4c94-8fbf-89d7af31e6da)
     (property "Reference" "MCH.SP.3" (id 0) (at 142.24 80.01 0)
       (effects (font (size 1.27 1.27)) (justify left))
@@ -1658,7 +1658,7 @@
   )
 
   (symbol (lib_name "Spark_gap_4") (lib_id "Mouse_Parts:Spark_gap") (at 191.77 109.22 0) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom no) (on_board yes)
     (uuid 7b1faa82-4b0d-4c83-a0ee-4c1c120de66d)
     (property "Reference" "MCH.SP.20" (id 0) (at 186.69 102.87 0)
       (effects (font (size 1.27 1.27)) (justify left))
@@ -1676,7 +1676,7 @@
   )
 
   (symbol (lib_name "Spark_gap_11") (lib_id "Mouse_Parts:Spark_gap") (at 168.91 109.22 0) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom no) (on_board yes)
     (uuid 7f640a07-76df-4f2a-9669-d246eaa572ea)
     (property "Reference" "MCH.SP.16" (id 0) (at 163.83 102.87 0)
       (effects (font (size 1.27 1.27)) (justify left))
@@ -1694,7 +1694,7 @@
   )
 
   (symbol (lib_name "Spark_gap_15") (lib_id "Mouse_Parts:Spark_gap") (at 196.85 83.82 0) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom no) (on_board yes)
     (uuid 8d0d17fe-4d73-4864-979d-e88b5d40a2b3)
     (property "Reference" "MCH.SP.12" (id 0) (at 191.77 77.47 0)
       (effects (font (size 1.27 1.27)) (justify left))
@@ -1712,7 +1712,7 @@
   )
 
   (symbol (lib_name "Spark_gap_2") (lib_id "Mouse_Parts:Spark_gap") (at 176.53 109.22 0) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom no) (on_board yes)
     (uuid a841e47e-f8eb-467d-9027-a645875b7892)
     (property "Reference" "MCH.SP.17" (id 0) (at 171.45 105.41 0)
       (effects (font (size 1.27 1.27)) (justify left))
@@ -1730,7 +1730,7 @@
   )
 
   (symbol (lib_id "Mouse_Parts:Fiducial") (at 54.61 53.34 0) (unit 1)
-    (in_bom yes) (on_board yes) (fields_autoplaced)
+    (in_bom no) (on_board yes) (fields_autoplaced)
     (uuid af638d65-fe6f-4b17-83f5-1454aa47926a)
     (property "Reference" "MCH.FID.1" (id 0) (at 57.15 52.0699 0)
       (effects (font (size 1.27 1.27)) (justify left))
@@ -1748,7 +1748,7 @@
   )
 
   (symbol (lib_name "Spark_gap_14") (lib_id "Mouse_Parts:Spark_gap") (at 193.04 83.82 0) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom no) (on_board yes)
     (uuid b18ea499-0397-4598-ac41-ea64d73dbc29)
     (property "Reference" "MCH.SP.11" (id 0) (at 187.96 80.01 0)
       (effects (font (size 1.27 1.27)) (justify left))
@@ -1766,7 +1766,7 @@
   )
 
   (symbol (lib_id "Mechanical:MountingHole") (at 53.34 69.85 0) (unit 1)
-    (in_bom yes) (on_board yes) (fields_autoplaced)
+    (in_bom no) (on_board yes) (fields_autoplaced)
     (uuid b46d0f04-af6d-4e0d-ac2b-0c23fee17c15)
     (property "Reference" "HOLE.1" (id 0) (at 55.88 68.5799 0)
       (effects (font (size 1.27 1.27)) (justify left))
@@ -1783,7 +1783,7 @@
   )
 
   (symbol (lib_name "Spark_gap_9") (lib_id "Mouse_Parts:Spark_gap") (at 157.48 109.22 0) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom no) (on_board yes)
     (uuid be5107a4-b97b-4519-89f8-d415ee175d55)
     (property "Reference" "MCH.SP.14" (id 0) (at 152.4 102.87 0)
       (effects (font (size 1.27 1.27)) (justify left))
@@ -1801,7 +1801,7 @@
   )
 
   (symbol (lib_name "Spark_gap_21") (lib_id "Mouse_Parts:Spark_gap") (at 168.91 134.62 0) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom no) (on_board yes)
     (uuid d2b436a8-43cf-46a8-bec9-a05649a6be91)
     (property "Reference" "MCH.SP.22" (id 0) (at 163.83 128.27 0)
       (effects (font (size 1.27 1.27)) (justify left))
@@ -1819,7 +1819,7 @@
   )
 
   (symbol (lib_id "Mouse_Parts:Coordinate_system_marker") (at 73.66 90.17 0) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom no) (on_board yes)
     (uuid d55f38f8-bb6e-4cd9-80c2-e8f954fe4e85)
     (property "Reference" "MCH.LOGO.2" (id 0) (at 67.31 82.55 0)
       (effects (font (size 1.27 1.27)) (justify left))
@@ -1836,7 +1836,7 @@
   )
 
   (symbol (lib_id "Mouse_Parts:Spark_gap") (at 191.77 134.62 0) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom no) (on_board yes)
     (uuid ea909a8e-0a23-4ea0-b3e5-a4b7888ca895)
     (property "Reference" "MCH.SP.24" (id 0) (at 186.69 128.27 0)
       (effects (font (size 1.27 1.27)) (justify left))
@@ -1854,7 +1854,7 @@
   )
 
   (symbol (lib_name "Spark_gap_16") (lib_id "Mouse_Parts:Spark_gap") (at 185.42 83.82 0) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom no) (on_board yes)
     (uuid eb100b5e-c086-49d7-b2e1-1c74e3966dfc)
     (property "Reference" "MCH.SP.10" (id 0) (at 180.34 77.47 0)
       (effects (font (size 1.27 1.27)) (justify left))
@@ -1872,7 +1872,7 @@
   )
 
   (symbol (lib_name "Spark_gap_12") (lib_id "Mouse_Parts:Spark_gap") (at 162.56 83.82 0) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom no) (on_board yes)
     (uuid ed22217c-4bbb-4998-b272-7147101a66d1)
     (property "Reference" "MCH.SP.6" (id 0) (at 157.48 77.47 0)
       (effects (font (size 1.27 1.27)) (justify left))
@@ -1890,7 +1890,7 @@
   )
 
   (symbol (lib_name "Spark_gap_10") (lib_id "Mouse_Parts:Spark_gap") (at 165.1 109.22 0) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom no) (on_board yes)
     (uuid edf937dc-988e-4ebd-9d75-325186bc06a8)
     (property "Reference" "MCH.SP.15" (id 0) (at 160.02 105.41 0)
       (effects (font (size 1.27 1.27)) (justify left))
@@ -1908,7 +1908,7 @@
   )
 
   (symbol (lib_name "Spark_gap_20") (lib_id "Mouse_Parts:Spark_gap") (at 139.7 83.82 0) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom no) (on_board yes)
     (uuid f0581f48-c46a-4eea-8719-b778ae7535bc)
     (property "Reference" "MCH.SP.2" (id 0) (at 134.62 77.47 0)
       (effects (font (size 1.27 1.27)) (justify left))
@@ -1926,7 +1926,7 @@
   )
 
   (symbol (lib_name "Spark_gap_23") (lib_id "Mouse_Parts:Spark_gap") (at 180.34 134.62 0) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom no) (on_board yes)
     (uuid f6b54af2-fec6-432a-9aad-72b89464b21f)
     (property "Reference" "MCH.SP.23" (id 0) (at 175.26 128.27 0)
       (effects (font (size 1.27 1.27)) (justify left))
@@ -1944,7 +1944,7 @@
   )
 
   (symbol (lib_name "Spark_gap_24") (lib_id "Mouse_Parts:Spark_gap") (at 176.53 134.62 0) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom no) (on_board yes)
     (uuid fabfa446-8f12-4919-b928-927332720754)
     (property "Reference" "MCH.SP.27" (id 0) (at 171.45 130.81 0)
       (effects (font (size 1.27 1.27)) (justify left))

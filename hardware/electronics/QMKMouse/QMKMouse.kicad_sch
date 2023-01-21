@@ -621,10 +621,10 @@
       (reference "BTN.SW.6") (unit 1) (value "D2LS-21") (footprint "Switches.PcbLib:D2LS-21")
     )
     (path "/143b26bf-3d77-4275-b4b3-9422596a1eca/01a1b476-5c4c-4504-9bbd-a1c173e2e770"
-      (reference "BTN.SW.7") (unit 1) (value "SW_DIP_x01") (footprint "Switches.PcbLib:D2LS-21")
+      (reference "BTN.SW.7") (unit 1) (value "D2LS-21") (footprint "Switches.PcbLib:D2LS-21")
     )
     (path "/143b26bf-3d77-4275-b4b3-9422596a1eca/5a3e5df7-23a2-4549-abf0-8d789fd05b6b"
-      (reference "BTN.SW.8") (unit 1) (value "SW_DIP_x01") (footprint "Switches.PcbLib:D2LS-21")
+      (reference "BTN.SW.8") (unit 1) (value "D2LS-21") (footprint "Switches.PcbLib:D2LS-21")
     )
     (path "/8a8b6b69-ddaf-44c3-83ab-81bc329be645/b46d0f04-af6d-4e0d-ac2b-0c23fee17c15"
       (reference "HOLE.1") (unit 1) (value "MountingHole") (footprint "")
@@ -662,34 +662,34 @@
     (path "/a92b64c3-54df-4690-a162-6d6859128b95/60c1b6fe-6897-46e8-b9c6-570c5a51c72a"
       (reference "LED.C.28") (unit 1) (value "0.1uF 100V") (footprint "Chip_Passives.PcbLib:0805")
     )
-    (path "/a92b64c3-54df-4690-a162-6d6859128b95/2ec1ffcc-09f4-4d64-9679-750a47ba7ed9"
+    (path "/a92b64c3-54df-4690-a162-6d6859128b95/7bc37a7a-0130-4a02-a4d2-4ac3907fb736"
       (reference "LED.D.1") (unit 1) (value "IN-PI55TATPRPGPB") (footprint "LEDs.PcbLib:IN-PI55TATPRPGPB")
     )
-    (path "/a92b64c3-54df-4690-a162-6d6859128b95/0fcac43a-8dd9-4551-b644-c85328eb09dd"
+    (path "/a92b64c3-54df-4690-a162-6d6859128b95/50e2f8bd-ab17-467d-b5a6-4706ab927bbf"
       (reference "LED.D.2") (unit 1) (value "IN-PI55TATPRPGPB") (footprint "LEDs.PcbLib:IN-PI55TATPRPGPB")
     )
-    (path "/a92b64c3-54df-4690-a162-6d6859128b95/2b941fd4-f12a-4f72-a94b-b2037cb32ba8"
+    (path "/a92b64c3-54df-4690-a162-6d6859128b95/5b738f18-623d-4b6f-bf33-9d6e446ae21d"
       (reference "LED.D.3") (unit 1) (value "IN-PI55TATPRPGPB") (footprint "LEDs.PcbLib:IN-PI55TATPRPGPB")
     )
-    (path "/a92b64c3-54df-4690-a162-6d6859128b95/b05513ea-0993-4f30-8fe6-13bab097d783"
+    (path "/a92b64c3-54df-4690-a162-6d6859128b95/67776e22-45c2-4d2b-a272-587ff79666c3"
       (reference "LED.D.4") (unit 1) (value "IN-PI55TATPRPGPB") (footprint "LEDs.PcbLib:IN-PI55TATPRPGPB")
     )
-    (path "/a92b64c3-54df-4690-a162-6d6859128b95/3b3b1396-639a-4635-8ea4-8696ebead2ef"
-      (reference "LED.D.5") (unit 1) (value "Inolux_IN-PI554FCH") (footprint "LEDs.PcbLib:IN-PI55TATPRPGPB")
+    (path "/a92b64c3-54df-4690-a162-6d6859128b95/5f65e8a4-ef45-4578-876a-2b9f84e800f7"
+      (reference "LED.D.5") (unit 1) (value "IN-PI55TATPRPGPB") (footprint "LEDs.PcbLib:IN-PI55TATPRPGPB")
     )
-    (path "/a92b64c3-54df-4690-a162-6d6859128b95/5666cb2c-1870-4b33-ac08-fb2cb0981119"
+    (path "/a92b64c3-54df-4690-a162-6d6859128b95/4ca672e8-86ba-430b-bbee-77a0ce5959f6"
       (reference "LED.D.6") (unit 1) (value "IN-PI55TATPRPGPB") (footprint "LEDs.PcbLib:IN-PI55TATPRPGPB")
     )
-    (path "/a92b64c3-54df-4690-a162-6d6859128b95/9650299b-2f77-4d06-b9b5-915f500986e4"
+    (path "/a92b64c3-54df-4690-a162-6d6859128b95/1a248d43-356f-4822-89af-f81f26c5528c"
       (reference "LED.D.7") (unit 1) (value "IN-PI55TATPRPGPB") (footprint "LEDs.PcbLib:IN-PI55TATPRPGPB")
     )
     (path "/a92b64c3-54df-4690-a162-6d6859128b95/95e79ead-5156-44bd-a935-c46f6ae71a06"
       (reference "LED.D.8") (unit 1) (value "IN-PI55TATPRPGPB") (footprint "LEDs.PcbLib:IN-PI55TATPRPGPB")
     )
-    (path "/a92b64c3-54df-4690-a162-6d6859128b95/5ce2a2d5-536d-4b3b-86ff-ffbcb3bc084d"
+    (path "/a92b64c3-54df-4690-a162-6d6859128b95/6cfa5dde-cc0c-4c18-a57d-9303656e0b51"
       (reference "LED.R.16") (unit 1) (value "1k 1%") (footprint "Chip_Passives.PcbLib:0805")
     )
-    (path "/a92b64c3-54df-4690-a162-6d6859128b95/92ccb034-2019-44b6-895b-3c198da70f7e"
+    (path "/a92b64c3-54df-4690-a162-6d6859128b95/ec98e7ad-522f-4871-b2b7-ae0f69e73f1d"
       (reference "LED.R.17") (unit 1) (value "1k 1%") (footprint "Chip_Passives.PcbLib:0805")
     )
     (path "/a92b64c3-54df-4690-a162-6d6859128b95/b3818581-0bde-4749-863b-2128f332c4d3"
@@ -905,7 +905,7 @@
     (path "/edd86220-f5f9-4f6e-b5ac-222411c977fd/5ac1d271-7853-44fb-b2fa-d7ceb7708864"
       (reference "USB.C.19") (unit 1) (value "10uF 25V") (footprint "Chip_Passives.PcbLib:0805")
     )
-    (path "/edd86220-f5f9-4f6e-b5ac-222411c977fd/0ab658e3-cdb6-4e4f-a1ed-dc150172b64e"
+    (path "/edd86220-f5f9-4f6e-b5ac-222411c977fd/082b8294-19db-4c4e-8920-7a9ab94c2a21"
       (reference "USB.FB.1") (unit 1) (value "ACML-0805-601-T") (footprint "Chip_Passives.PcbLib:0805")
     )
     (path "/edd86220-f5f9-4f6e-b5ac-222411c977fd/3db74dfa-a4f7-45d5-9ea5-423ca665cbaf"
@@ -915,7 +915,7 @@
       (reference "USB.FB.3") (unit 1) (value "ACML-0805-601-T") (footprint "Chip_Passives.PcbLib:0805")
     )
     (path "/edd86220-f5f9-4f6e-b5ac-222411c977fd/66893bd1-caae-4fcc-8048-9b8bb3895e4d"
-      (reference "USB.FB.4") (unit 1) (value "ACML-0805-601-T Ferrite Bead 600Ohm") (footprint "Chip_Passives.PcbLib:0805")
+      (reference "USB.FB.4") (unit 1) (value "ACML-0805-601-T") (footprint "Chip_Passives.PcbLib:0805")
     )
     (path "/edd86220-f5f9-4f6e-b5ac-222411c977fd/0f77b3b0-168e-432f-8338-a94cce9ef033"
       (reference "USB.FB.5") (unit 1) (value "ACML-0805-601-T") (footprint "Chip_Passives.PcbLib:0805")
