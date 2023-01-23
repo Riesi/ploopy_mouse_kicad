@@ -639,64 +639,64 @@
       (reference "LBS.SW.2") (unit 1) (value "D2LS-21") (footprint "Switches.PcbLib:D2LS-21")
     )
     (path "/a92b64c3-54df-4690-a162-6d6859128b95/59e6d408-2e5e-4aa9-85a1-5150bf27a34c"
-      (reference "LED.C.20") (unit 1) (value "0.1uF 100V") (footprint "Chip_Passives.PcbLib:0805")
+      (reference "LED.C.20") (unit 1) (value "0.1uF 100V") (footprint "mouse_part:C_0805")
     )
     (path "/a92b64c3-54df-4690-a162-6d6859128b95/349a5d46-9d4f-4dab-acc2-31c26c343dc5"
-      (reference "LED.C.21") (unit 1) (value "0.1uF 100V") (footprint "Chip_Passives.PcbLib:0805")
+      (reference "LED.C.21") (unit 1) (value "0.1uF 100V") (footprint "mouse_part:C_0805")
     )
     (path "/a92b64c3-54df-4690-a162-6d6859128b95/b598681b-3bb1-41ef-89b3-1da6b8ddc5db"
-      (reference "LED.C.23") (unit 1) (value "0.1uF 100V") (footprint "Chip_Passives.PcbLib:0805")
+      (reference "LED.C.23") (unit 1) (value "0.1uF 100V") (footprint "mouse_part:C_0805")
     )
     (path "/a92b64c3-54df-4690-a162-6d6859128b95/5348a1ac-84d6-46a3-8b2a-2c874aefd78c"
-      (reference "LED.C.24") (unit 1) (value "0.1uF 100V") (footprint "Chip_Passives.PcbLib:0805")
+      (reference "LED.C.24") (unit 1) (value "0.1uF 100V") (footprint "mouse_part:C_0805")
     )
     (path "/a92b64c3-54df-4690-a162-6d6859128b95/40a5c661-e451-4305-98d7-8c403ffb0eda"
-      (reference "LED.C.25") (unit 1) (value "0.1uF 100V") (footprint "Chip_Passives.PcbLib:0805")
+      (reference "LED.C.25") (unit 1) (value "0.1uF 100V") (footprint "mouse_part:C_0805")
     )
     (path "/a92b64c3-54df-4690-a162-6d6859128b95/00bcb8d9-d669-409b-bab2-c12ab9a61643"
-      (reference "LED.C.26") (unit 1) (value "0.1uF 100V") (footprint "Chip_Passives.PcbLib:0805")
+      (reference "LED.C.26") (unit 1) (value "0.1uF 100V") (footprint "mouse_part:C_0805")
     )
     (path "/a92b64c3-54df-4690-a162-6d6859128b95/d38fe896-3762-4442-9e8c-0f8bbe5030b3"
-      (reference "LED.C.27") (unit 1) (value "0.1uF 100V") (footprint "Chip_Passives.PcbLib:0805")
+      (reference "LED.C.27") (unit 1) (value "0.1uF 100V") (footprint "mouse_part:C_0805")
     )
     (path "/a92b64c3-54df-4690-a162-6d6859128b95/60c1b6fe-6897-46e8-b9c6-570c5a51c72a"
-      (reference "LED.C.28") (unit 1) (value "0.1uF 100V") (footprint "Chip_Passives.PcbLib:0805")
+      (reference "LED.C.28") (unit 1) (value "0.1uF 100V") (footprint "mouse_part:C_0805")
     )
     (path "/a92b64c3-54df-4690-a162-6d6859128b95/7bc37a7a-0130-4a02-a4d2-4ac3907fb736"
-      (reference "LED.D.1") (unit 1) (value "IN-PI55TATPRPGPB") (footprint "LEDs.PcbLib:IN-PI55TATPRPGPB")
+      (reference "LED.D.1") (unit 1) (value "IN-PI55TATPRPGPB") (footprint "mouse_part:IN-PI55TATPRPGPB")
     )
     (path "/a92b64c3-54df-4690-a162-6d6859128b95/50e2f8bd-ab17-467d-b5a6-4706ab927bbf"
-      (reference "LED.D.2") (unit 1) (value "IN-PI55TATPRPGPB") (footprint "LEDs.PcbLib:IN-PI55TATPRPGPB")
+      (reference "LED.D.2") (unit 1) (value "IN-PI55TATPRPGPB") (footprint "mouse_part:IN-PI55TATPRPGPB")
     )
     (path "/a92b64c3-54df-4690-a162-6d6859128b95/5b738f18-623d-4b6f-bf33-9d6e446ae21d"
-      (reference "LED.D.3") (unit 1) (value "IN-PI55TATPRPGPB") (footprint "LEDs.PcbLib:IN-PI55TATPRPGPB")
+      (reference "LED.D.3") (unit 1) (value "IN-PI55TATPRPGPB") (footprint "mouse_part:IN-PI55TATPRPGPB")
     )
     (path "/a92b64c3-54df-4690-a162-6d6859128b95/67776e22-45c2-4d2b-a272-587ff79666c3"
-      (reference "LED.D.4") (unit 1) (value "IN-PI55TATPRPGPB") (footprint "LEDs.PcbLib:IN-PI55TATPRPGPB")
+      (reference "LED.D.4") (unit 1) (value "IN-PI55TATPRPGPB") (footprint "mouse_part:IN-PI55TATPRPGPB")
     )
     (path "/a92b64c3-54df-4690-a162-6d6859128b95/5f65e8a4-ef45-4578-876a-2b9f84e800f7"
-      (reference "LED.D.5") (unit 1) (value "IN-PI55TATPRPGPB") (footprint "LEDs.PcbLib:IN-PI55TATPRPGPB")
+      (reference "LED.D.5") (unit 1) (value "IN-PI55TATPRPGPB") (footprint "mouse_part:IN-PI55TATPRPGPB")
     )
     (path "/a92b64c3-54df-4690-a162-6d6859128b95/4ca672e8-86ba-430b-bbee-77a0ce5959f6"
-      (reference "LED.D.6") (unit 1) (value "IN-PI55TATPRPGPB") (footprint "LEDs.PcbLib:IN-PI55TATPRPGPB")
+      (reference "LED.D.6") (unit 1) (value "IN-PI55TATPRPGPB") (footprint "mouse_part:IN-PI55TATPRPGPB")
     )
     (path "/a92b64c3-54df-4690-a162-6d6859128b95/1a248d43-356f-4822-89af-f81f26c5528c"
-      (reference "LED.D.7") (unit 1) (value "IN-PI55TATPRPGPB") (footprint "LEDs.PcbLib:IN-PI55TATPRPGPB")
+      (reference "LED.D.7") (unit 1) (value "IN-PI55TATPRPGPB") (footprint "mouse_part:IN-PI55TATPRPGPB")
     )
     (path "/a92b64c3-54df-4690-a162-6d6859128b95/95e79ead-5156-44bd-a935-c46f6ae71a06"
-      (reference "LED.D.8") (unit 1) (value "IN-PI55TATPRPGPB") (footprint "LEDs.PcbLib:IN-PI55TATPRPGPB")
+      (reference "LED.D.8") (unit 1) (value "IN-PI55TATPRPGPB") (footprint "mouse_part:IN-PI55TATPRPGPB")
     )
     (path "/a92b64c3-54df-4690-a162-6d6859128b95/6cfa5dde-cc0c-4c18-a57d-9303656e0b51"
-      (reference "LED.R.16") (unit 1) (value "1k 1%") (footprint "Chip_Passives.PcbLib:0805")
+      (reference "LED.R.16") (unit 1) (value "1k 1%") (footprint "mouse_part:0805")
     )
     (path "/a92b64c3-54df-4690-a162-6d6859128b95/ec98e7ad-522f-4871-b2b7-ae0f69e73f1d"
-      (reference "LED.R.17") (unit 1) (value "1k 1%") (footprint "Chip_Passives.PcbLib:0805")
+      (reference "LED.R.17") (unit 1) (value "1k 1%") (footprint "mouse_part:0805")
     )
     (path "/a92b64c3-54df-4690-a162-6d6859128b95/b3818581-0bde-4749-863b-2128f332c4d3"
-      (reference "LED.R.18") (unit 1) (value "1k 1%") (footprint "Chip_Passives.PcbLib:0805")
+      (reference "LED.R.18") (unit 1) (value "1k 1%") (footprint "mouse_part:0805")
     )
     (path "/a92b64c3-54df-4690-a162-6d6859128b95/4780cb9d-c38d-446d-8f44-6365ca308db9"
-      (reference "LED.R.19") (unit 1) (value "1k 1%") (footprint "Chip_Passives.PcbLib:0805")
+      (reference "LED.R.19") (unit 1) (value "1k 1%") (footprint "mouse_part:0805")
     )
     (path "/8a8b6b69-ddaf-44c3-83ab-81bc329be645/af638d65-fe6f-4b17-83f5-1454aa47926a"
       (reference "MCH.FID.1") (unit 1) (value "Fiducial") (footprint "Mechanical.PcbLib:FIDUCIAL_1.5")
@@ -792,28 +792,28 @@
       (reference "MCH.SP.28") (unit 1) (value "Spark_gap") (footprint "PCBFeatures.PcbLib:SparkGap")
     )
     (path "/3468dd8e-5228-47fc-9e01-0b4967e51943/f0b8ec2d-5c5a-416c-b129-d5f15c674bbf"
-      (reference "MCU.C.1") (unit 1) (value "1uF 25V") (footprint "Chip_Passives.PcbLib:0805")
+      (reference "MCU.C.1") (unit 1) (value "1uF 25V") (footprint "mouse_part:C_0805")
     )
     (path "/3468dd8e-5228-47fc-9e01-0b4967e51943/6f5e52ed-9065-4fe3-a7ca-d19ca10490f6"
-      (reference "MCU.C.4") (unit 1) (value "0.1uF 100V") (footprint "Chip_Passives.PcbLib:0805")
+      (reference "MCU.C.4") (unit 1) (value "0.1uF 100V") (footprint "mouse_part:C_0805")
     )
     (path "/3468dd8e-5228-47fc-9e01-0b4967e51943/7645e1a3-5ace-47b2-a2dc-809a664701bb"
-      (reference "MCU.C.5") (unit 1) (value "0.1uF 100V") (footprint "Chip_Passives.PcbLib:0805")
+      (reference "MCU.C.5") (unit 1) (value "0.1uF 100V") (footprint "mouse_part:C_0805")
     )
     (path "/3468dd8e-5228-47fc-9e01-0b4967e51943/ec5c9747-0f28-4fe7-940a-ae25dd814dd6"
-      (reference "MCU.C.6") (unit 1) (value "0.1uF 100V") (footprint "Chip_Passives.PcbLib:0805")
+      (reference "MCU.C.6") (unit 1) (value "0.1uF 100V") (footprint "mouse_part:C_0805")
     )
     (path "/3468dd8e-5228-47fc-9e01-0b4967e51943/bfa08c85-6510-434b-a819-79312d283db4"
-      (reference "MCU.C.7") (unit 1) (value "10uF 25V") (footprint "Chip_Passives.PcbLib:0805")
+      (reference "MCU.C.7") (unit 1) (value "10uF 25V") (footprint "mouse_part:C_0805")
     )
     (path "/3468dd8e-5228-47fc-9e01-0b4967e51943/fb241176-6f70-4f50-a328-70a51a63c358"
-      (reference "MCU.C.8") (unit 1) (value "0.1uF 100V") (footprint "Chip_Passives.PcbLib:0805")
+      (reference "MCU.C.8") (unit 1) (value "0.1uF 100V") (footprint "mouse_part:C_0805")
     )
     (path "/3468dd8e-5228-47fc-9e01-0b4967e51943/87dc8d5e-d801-408a-80b0-c535934af023"
-      (reference "MCU.C.9") (unit 1) (value "0.1uF 100V") (footprint "Chip_Passives.PcbLib:0805")
+      (reference "MCU.C.9") (unit 1) (value "0.1uF 100V") (footprint "mouse_part:C_0805")
     )
     (path "/3468dd8e-5228-47fc-9e01-0b4967e51943/6994bac9-67b0-4c39-9aa1-65a96ce379fa"
-      (reference "MCU.C.22") (unit 1) (value "0.1uF 100V") (footprint "Chip_Passives.PcbLib:0805")
+      (reference "MCU.C.22") (unit 1) (value "0.1uF 100V") (footprint "mouse_part:C_0805")
     )
     (path "/3468dd8e-5228-47fc-9e01-0b4967e51943/f6a1572c-b52e-48e6-b497-7f6223f252b0"
       (reference "MCU.J.1") (unit 1) (value "Atmel_ICSP") (footprint "Connectors.PcbLib:6x2")
@@ -822,10 +822,10 @@
       (reference "MCU.J.4") (unit 1) (value "Conn_01x02") (footprint "Connectors.PcbLib:2x1")
     )
     (path "/3468dd8e-5228-47fc-9e01-0b4967e51943/a30be623-8541-4ee2-8fb2-43f4a5fe0310"
-      (reference "MCU.R.1") (unit 1) (value "10k 1%") (footprint "Chip_Passives.PcbLib:0805")
+      (reference "MCU.R.1") (unit 1) (value "10k 1%") (footprint "mouse_part:0805")
     )
     (path "/3468dd8e-5228-47fc-9e01-0b4967e51943/9530c114-a4c3-427a-97cd-aadc3a3c6094"
-      (reference "MCU.R.20") (unit 1) (value "10k 1%") (footprint "Chip_Passives.PcbLib:0805")
+      (reference "MCU.R.20") (unit 1) (value "10k 1%") (footprint "mouse_part:0805")
     )
     (path "/3468dd8e-5228-47fc-9e01-0b4967e51943/cba9b6c9-03f6-404c-b93f-135affbf2c05"
       (reference "MCU.U.1") (unit 1) (value "ATmega32U4RC-A") (footprint "MCUs.PcbLib:ATMEGA32U4 - TQFP80P1200X1200X120-44N")
@@ -834,43 +834,43 @@
       (reference "MCU.Y.1") (unit 1) (value "8MHz") (footprint "Crystals.PcbLib:LFXTAL055663BULK")
     )
     (path "/61f20a67-021b-4d8e-9d39-163b64f6bf6a/e2a1cb13-5797-44c7-86b7-3a9a6d3afd6c"
-      (reference "MOS.C.10") (unit 1) (value "10uF 25V") (footprint "Chip_Passives.PcbLib:0805")
+      (reference "MOS.C.10") (unit 1) (value "10uF 25V") (footprint "mouse_part:C_0805")
     )
     (path "/61f20a67-021b-4d8e-9d39-163b64f6bf6a/9777be11-b72a-46d6-8d8f-ce76e510796b"
-      (reference "MOS.C.11") (unit 1) (value "0.1uF 100V") (footprint "Chip_Passives.PcbLib:0805")
+      (reference "MOS.C.11") (unit 1) (value "0.1uF 100V") (footprint "mouse_part:C_0805")
     )
     (path "/61f20a67-021b-4d8e-9d39-163b64f6bf6a/f3ecd800-9a2c-472e-a2be-9cc59317ab02"
-      (reference "MOS.R.3") (unit 1) (value "22R 1%") (footprint "Chip_Passives.PcbLib:0805")
+      (reference "MOS.R.3") (unit 1) (value "22R 1%") (footprint "mouse_part:0805")
     )
     (path "/61f20a67-021b-4d8e-9d39-163b64f6bf6a/1a5e2dc5-b9b5-4143-9752-0c462b09c97a"
-      (reference "MOS.R.4") (unit 1) (value "22R 1%") (footprint "Chip_Passives.PcbLib:0805")
+      (reference "MOS.R.4") (unit 1) (value "22R 1%") (footprint "mouse_part:0805")
     )
     (path "/61f20a67-021b-4d8e-9d39-163b64f6bf6a/82eb2206-4ed9-4ca5-8dcc-8b2b4c79720b"
-      (reference "MOS.R.5") (unit 1) (value "10k 1%") (footprint "Chip_Passives.PcbLib:0805")
+      (reference "MOS.R.5") (unit 1) (value "10k 1%") (footprint "mouse_part:0805")
     )
     (path "/61f20a67-021b-4d8e-9d39-163b64f6bf6a/a7608d5a-5ee1-4684-bc9a-4dd60801e46f"
       (reference "MOS.U.2") (unit 1) (value "PMW3360DM-T2QU") (footprint "OptoElectronics.PcbLib:PMW3360DM-T2QU")
     )
     (path "/98cd3789-66cc-4cf1-bfcd-ca2a138ddd54/c2cec67d-f574-4ef6-a89d-9128e3644585"
-      (reference "REG.C.12") (unit 1) (value "1uF 25V") (footprint "Chip_Passives.PcbLib:0805")
+      (reference "REG.C.12") (unit 1) (value "1uF 25V") (footprint "mouse_part:C_0805")
     )
     (path "/98cd3789-66cc-4cf1-bfcd-ca2a138ddd54/47626b40-71f5-4bc1-bc6b-ae03c5219eff"
-      (reference "REG.C.13") (unit 1) (value "10uF 25V") (footprint "Chip_Passives.PcbLib:0805")
+      (reference "REG.C.13") (unit 1) (value "10uF 25V") (footprint "mouse_part:C_0805")
     )
     (path "/98cd3789-66cc-4cf1-bfcd-ca2a138ddd54/8bd6a05a-67a1-4487-a5f0-844f7bb96838"
-      (reference "REG.C.14") (unit 1) (value "1uF 25V") (footprint "Chip_Passives.PcbLib:0805")
+      (reference "REG.C.14") (unit 1) (value "1uF 25V") (footprint "mouse_part:C_0805")
     )
     (path "/98cd3789-66cc-4cf1-bfcd-ca2a138ddd54/c0a0572e-1029-4990-9749-23098049f43c"
-      (reference "REG.C.15") (unit 1) (value "100pF 100V") (footprint "Chip_Passives.PcbLib:0805")
+      (reference "REG.C.15") (unit 1) (value "100pF 100V") (footprint "mouse_part:C_0805")
     )
     (path "/98cd3789-66cc-4cf1-bfcd-ca2a138ddd54/4ecb661d-d417-45a6-8dbf-fa8ff3d17fcc"
-      (reference "REG.C.16") (unit 1) (value "1uF 25V") (footprint "Chip_Passives.PcbLib:0805")
+      (reference "REG.C.16") (unit 1) (value "1uF 25V") (footprint "mouse_part:C_0805")
     )
     (path "/98cd3789-66cc-4cf1-bfcd-ca2a138ddd54/540fc5bc-4059-4549-8faf-ea8e4d502528"
-      (reference "REG.C.17") (unit 1) (value "10uF 25V") (footprint "Chip_Passives.PcbLib:0805")
+      (reference "REG.C.17") (unit 1) (value "10uF 25V") (footprint "mouse_part:C_0805")
     )
     (path "/98cd3789-66cc-4cf1-bfcd-ca2a138ddd54/8778e830-8b23-43fb-a4b5-dd95d53b08eb"
-      (reference "REG.C.18") (unit 1) (value "1uF 25V") (footprint "Chip_Passives.PcbLib:0805")
+      (reference "REG.C.18") (unit 1) (value "1uF 25V") (footprint "mouse_part:C_0805")
     )
     (path "/98cd3789-66cc-4cf1-bfcd-ca2a138ddd54/62ad979d-2f36-47f0-a8a8-ae2fb07ddfc4"
       (reference "REG.U.3") (unit 1) (value "AP2202K-3.3") (footprint "PowerSupply.PcbLib:AP2202 - SOT95P270X145-5N")
@@ -891,34 +891,34 @@
       (reference "SCW.Qt.2") (unit 1) (value "PT26-51B/TR8 or PT12-21B/TR8") (footprint "OptoElectronics.PcbLib:PT26-51B-TR8")
     )
     (path "/abb8f21a-2f7a-4a8b-860b-596db9596519/4c25b79c-3ba8-4f82-852e-32eace5522f2"
-      (reference "SCW.R.1") (unit 1) (value "100R 1%") (footprint "Chip_Passives.PcbLib:0805")
+      (reference "SCW.R.1") (unit 1) (value "100R 1%") (footprint "mouse_part:0805")
     )
     (path "/abb8f21a-2f7a-4a8b-860b-596db9596519/eae77762-0878-42d3-a252-1d4f12027d31"
-      (reference "SCW.R.2") (unit 1) (value "1k 1%") (footprint "Chip_Passives.PcbLib:0805")
+      (reference "SCW.R.2") (unit 1) (value "1k 1%") (footprint "mouse_part:0805")
     )
     (path "/abb8f21a-2f7a-4a8b-860b-596db9596519/2aae1e19-d340-442f-840d-b3a1b2c90b43"
-      (reference "SCW.R.3") (unit 1) (value "100R 1%") (footprint "Chip_Passives.PcbLib:0805")
+      (reference "SCW.R.3") (unit 1) (value "100R 1%") (footprint "mouse_part:0805")
     )
     (path "/abb8f21a-2f7a-4a8b-860b-596db9596519/e5ebeb14-acd2-4bc7-b82d-b01a7c952184"
-      (reference "SCW.R.4") (unit 1) (value "1k 1%") (footprint "Chip_Passives.PcbLib:0805")
+      (reference "SCW.R.4") (unit 1) (value "1k 1%") (footprint "mouse_part:0805")
     )
     (path "/edd86220-f5f9-4f6e-b5ac-222411c977fd/5ac1d271-7853-44fb-b2fa-d7ceb7708864"
-      (reference "USB.C.19") (unit 1) (value "10uF 25V") (footprint "Chip_Passives.PcbLib:0805")
+      (reference "USB.C.19") (unit 1) (value "10uF 25V") (footprint "mouse_part:C_0805")
     )
     (path "/edd86220-f5f9-4f6e-b5ac-222411c977fd/082b8294-19db-4c4e-8920-7a9ab94c2a21"
-      (reference "USB.FB.1") (unit 1) (value "ACML-0805-601-T") (footprint "Chip_Passives.PcbLib:0805")
+      (reference "USB.FB.1") (unit 1) (value "ACML-0805-601-T") (footprint "mouse_part:0805")
     )
     (path "/edd86220-f5f9-4f6e-b5ac-222411c977fd/3db74dfa-a4f7-45d5-9ea5-423ca665cbaf"
-      (reference "USB.FB.2") (unit 1) (value "ACML-0805-601-T") (footprint "Chip_Passives.PcbLib:0805")
+      (reference "USB.FB.2") (unit 1) (value "ACML-0805-601-T") (footprint "mouse_part:0805")
     )
     (path "/edd86220-f5f9-4f6e-b5ac-222411c977fd/6918b2ff-624e-4824-92f8-4319d719929d"
-      (reference "USB.FB.3") (unit 1) (value "ACML-0805-601-T") (footprint "Chip_Passives.PcbLib:0805")
+      (reference "USB.FB.3") (unit 1) (value "ACML-0805-601-T") (footprint "mouse_part:0805")
     )
     (path "/edd86220-f5f9-4f6e-b5ac-222411c977fd/66893bd1-caae-4fcc-8048-9b8bb3895e4d"
-      (reference "USB.FB.4") (unit 1) (value "ACML-0805-601-T") (footprint "Chip_Passives.PcbLib:0805")
+      (reference "USB.FB.4") (unit 1) (value "ACML-0805-601-T") (footprint "mouse_part:0805")
     )
     (path "/edd86220-f5f9-4f6e-b5ac-222411c977fd/0f77b3b0-168e-432f-8338-a94cce9ef033"
-      (reference "USB.FB.5") (unit 1) (value "ACML-0805-601-T") (footprint "Chip_Passives.PcbLib:0805")
+      (reference "USB.FB.5") (unit 1) (value "ACML-0805-601-T") (footprint "mouse_part:0805")
     )
     (path "/edd86220-f5f9-4f6e-b5ac-222411c977fd/4058ebf9-ff95-4b60-a534-2407202eb134"
       (reference "USB.J.2") (unit 1) (value "SJ-43514-SMT-TR") (footprint "Connectors.PcbLib:SJ-43514-SMT-TR")
@@ -927,34 +927,34 @@
       (reference "USB.J.3") (unit 1) (value "DX07S016JA1R1500") (footprint "Connectors.PcbLib:DX07S016JA1R1500")
     )
     (path "/edd86220-f5f9-4f6e-b5ac-222411c977fd/720fe56e-2037-42b6-8afd-60c4848ba53e"
-      (reference "USB.R.6") (unit 1) (value "22R 1%") (footprint "Chip_Passives.PcbLib:0805")
+      (reference "USB.R.6") (unit 1) (value "22R 1%") (footprint "mouse_part:0805")
     )
     (path "/edd86220-f5f9-4f6e-b5ac-222411c977fd/cb14f9dd-6bdc-44ee-b815-41f64a95a822"
-      (reference "USB.R.7") (unit 1) (value "22R 1%") (footprint "Chip_Passives.PcbLib:0805")
+      (reference "USB.R.7") (unit 1) (value "22R 1%") (footprint "mouse_part:0805")
     )
     (path "/edd86220-f5f9-4f6e-b5ac-222411c977fd/14dcfacb-e627-4794-aba3-bca989e202f7"
-      (reference "USB.R.8") (unit 1) (value "10k 1%") (footprint "Chip_Passives.PcbLib:0805")
+      (reference "USB.R.8") (unit 1) (value "10k 1%") (footprint "mouse_part:0805")
     )
     (path "/edd86220-f5f9-4f6e-b5ac-222411c977fd/3070b24d-9bf8-41cf-9158-f304b81e5887"
-      (reference "USB.R.9") (unit 1) (value "10k 1%") (footprint "Chip_Passives.PcbLib:0805")
+      (reference "USB.R.9") (unit 1) (value "10k 1%") (footprint "mouse_part:0805")
     )
     (path "/edd86220-f5f9-4f6e-b5ac-222411c977fd/fc17c5f7-3f71-4a6b-aeaa-80f005ea994a"
-      (reference "USB.R.10") (unit 1) (value "22R 1%") (footprint "Chip_Passives.PcbLib:0805")
+      (reference "USB.R.10") (unit 1) (value "22R 1%") (footprint "mouse_part:0805")
     )
     (path "/edd86220-f5f9-4f6e-b5ac-222411c977fd/1f700b6c-cfd4-4af6-b71c-7f1460f7d616"
-      (reference "USB.R.11") (unit 1) (value "22R 1%") (footprint "Chip_Passives.PcbLib:0805")
+      (reference "USB.R.11") (unit 1) (value "22R 1%") (footprint "mouse_part:0805")
     )
     (path "/edd86220-f5f9-4f6e-b5ac-222411c977fd/2a6752f9-57e7-480f-b6a6-3c8ae169d967"
-      (reference "USB.R.12") (unit 1) (value "10k 1%") (footprint "Chip_Passives.PcbLib:0805")
+      (reference "USB.R.12") (unit 1) (value "10k 1%") (footprint "mouse_part:0805")
     )
     (path "/edd86220-f5f9-4f6e-b5ac-222411c977fd/81b3dd1b-5123-41c1-978e-df30691f4f9c"
-      (reference "USB.R.13") (unit 1) (value "10k 1%") (footprint "Chip_Passives.PcbLib:0805")
+      (reference "USB.R.13") (unit 1) (value "10k 1%") (footprint "mouse_part:0805")
     )
     (path "/edd86220-f5f9-4f6e-b5ac-222411c977fd/2daf8453-74b1-49e7-89dd-6ac66f60fe21"
-      (reference "USB.R.14") (unit 1) (value "10k 1%") (footprint "Chip_Passives.PcbLib:0805")
+      (reference "USB.R.14") (unit 1) (value "10k 1%") (footprint "mouse_part:0805")
     )
     (path "/edd86220-f5f9-4f6e-b5ac-222411c977fd/4affb439-491d-494e-9fce-0eeee4876580"
-      (reference "USB.R.15") (unit 1) (value "10k 1%") (footprint "Chip_Passives.PcbLib:0805")
+      (reference "USB.R.15") (unit 1) (value "10k 1%") (footprint "mouse_part:0805")
     )
     (path "/edd86220-f5f9-4f6e-b5ac-222411c977fd/5ca1076b-b31f-469f-84bd-6d81fff93a3f"
       (reference "USB.Z.1") (unit 1) (value "IP4220CZ6") (footprint "Diodes.PcbLib:PESD3V3S4UD - SOT95P275X110-6N")
